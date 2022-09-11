@@ -1,0 +1,42 @@
+a{
+	text-decoration: none;
+	color: rgb(140, 88, 123);
+}
+
+
+h1{
+	text-align: center;
+}
+.header-navs{
+	text-align: center;
+}
+body{
+	/*background-color: rgb(56, 31, 94);*/
+	margin: 0;
+}
+hr{
+	color: white;
+}
+
+.main-items{
+	display: grid;
+	grid-template-columns: 2fr 2fr 2fr;
+}
+
+#img-item{
+	
+	margin: 0 5px;
+}
+#contact-item{
+	background-color: skyblue;
+}
+#intro-item{
+	margin-left: 5%;
+}
+#currently-item{
+	margin-bottom: 40%;
+}
+#contact-main-item{
+	margin: 10px 10px 10px 10px;
+	/*text-align: center;*/
+}
